@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\bin\Debug\TempConverterZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\bin\Debug\TempConverterZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\bin\Debug\TempConverterZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.TempConverterForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\TempConverterZachK\TempConverterZachK\obj\Debug\TempConverterZachK.pdb
