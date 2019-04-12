@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Zachary Kranabetter
+ * Created on: April 10th 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #31 - Rounding Program
+ * This program takes a user inputted number along with the amount of decimals places the user wants 
+ * then rounds the number accordingly by using a pass by reference procedure.
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,26 +37,26 @@ namespace PassByReferenceZachK
             //get the number of decimals
             numberOfDecimals = Convert.ToInt32(nudDecimal.Value);
 
-            round(ref number, numberOfDecimals);
+            //call the round procedure
+            round(ref number, ref numberOfDecimals);
         }
 
-        private void round (ref double number, int numberOfDecimals)
+        private void round (ref double number, ref int numberOfDecimals)
         {
-            //multiply the number they want to be rounded by 10 ^ the number of decimals
-            //number *= (10^numberOfDecimals) + 0.5;
-            numberOfDecimals = 10 ^ numberOfDecimals;
-            number = number * numberOfDecimals;
+            //multiply the number by 10 to the power of the number of decimals
+            number = number * (Math.Pow(10, numberOfDecimals));
 
-            number += 0.5;
+            //add 0.5 to the number
+            number = number + 0.5;
 
+            //get rid of the decimals
             number = Math.Truncate(number);
 
-            number = number / numberOfDecimals;
-          
-            //lblRoundedNumber.Text = Convert.ToString(number);
+            //divide the number by 10 to the power of the number of decimals
+            number = number / (Math.Pow(10, numberOfDecimals));
+            
+            //display the rounded number to the user
             MessageBox.Show("The rounded number is " + number, "Round" );
-
-
         }
     }
 }
