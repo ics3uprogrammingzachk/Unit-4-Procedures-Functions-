@@ -1,0 +1,19 @@
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.exe.config
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.exe
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.pdb
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.csprojAssemblyReference.cache
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.PercentageProgramForm.resources
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.Properties.Resources.resources
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.csproj.GenerateResource.cache
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.exe
+C:\Users\Zach\ICS3U\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\bin\Debug\percentageProgramZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.PercentageProgramForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\percentageProgramZachK\percentageProgramZachK\obj\Debug\percentageProgramZachK.pdb

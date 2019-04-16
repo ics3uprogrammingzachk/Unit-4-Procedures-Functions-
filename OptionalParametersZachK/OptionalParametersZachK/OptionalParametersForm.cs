@@ -1,9 +1,9 @@
 ﻿/*
- * Created by: First Last
- * Created on: Day-Month-Year
+ * Created by: Zachary Kranabetter
+ * Created on: April 12th 2019
  * Created for: ICS3U Programming
  * Daily Assignment – Day #32 - Address Program
- * This program...
+ * This program gets the user's adress then checks if they entered all they information and displays it by using a procedure
 */
 
 using System;
